@@ -1,0 +1,25 @@
+{
+  "name": "island-ui",
+  "version": "1.0.0",
+  "description": "A UI component library for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueStoneQ/island-ui.git"
+  },
+  "keywords": [
+    "React",
+    "component",
+    "library",
+    "UI"
+  ],
+  "author": "qiaoyang <qiaoyang@bonc.com.cn>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlueStoneQ/island-ui/issues"
+  },
+  "homepage": "https://github.com/BlueStoneQ/island-ui#readme"
+}
